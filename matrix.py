@@ -8,7 +8,7 @@ mean_a = np.mean(a, axis=0)
 print(mean_a)
 
 # save the mean as .csv file
-#np.savetxt('demo_matrix.csv', mean_a, delimiter=',')
+np.savetxt('demo_matrix.csv', mean_a, delimiter=',')
 
 # draw figure
 # year=[1990, 2000, 2010]
