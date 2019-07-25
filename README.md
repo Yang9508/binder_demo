@@ -14,3 +14,8 @@
 - add a list `year = c(1990,2000,2010)`
 - plot data with x=year, y=mean
 - save the plot as `demo_plotr.png`.
+
+To open with Rstudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Yang9508/binder_demo/master?filepath=rstudio)
+
+To open with Jupyter Lab: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Yang9508/demo/master?urlpath=lab)
+
